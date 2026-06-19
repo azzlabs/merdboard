@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <linearGradient id="g" x1="24" y1="16" x2="104" y2="112" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDE68A"/>
+      <stop offset="1" stop-color="#D97706"/>
+    </linearGradient>
+    <linearGradient id="h" x1="40" y1="52" x2="92" y2="96" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C2D12"/>
+      <stop offset="1" stop-color="#3F1D0F"/>
+    </linearGradient>
+  </defs>
+  <path d="M64 14c10 0 18 8 18 18 0 2.5-.5 4.9-1.4 7.1C89 41 96 49.4 96 59c0 4.7-1.7 9.1-4.5 12.5C99.4 73.4 106 82 106 92c0 13.3-10.7 24-24 24H46c-13.3 0-24-10.7-24-24 0-9.9 6.1-18.4 14.8-22C34.9 66.6 34 63.4 34 60c0-9 5.8-16.6 13.8-19.3C47.6 38.8 47 36.5 47 34c0-11 9-20 20-20h-3Z" fill="url(#g)" stroke="#B45309" stroke-width="3"/>
+  <path d="M40 74h48c6.6 0 12 5.4 12 12v4c0 6.6-5.4 12-12 12H40c-6.6 0-12-5.4-12-12v-4c0-6.6 5.4-12 12-12Z" fill="url(#h)" opacity="0.95"/>
+  <circle cx="50" cy="88" r="4" fill="#FDE68A"/>
+  <circle cx="78" cy="88" r="4" fill="#FDE68A"/>
+  <path d="M52 98c4.2 3.2 8.6 4.8 12 4.8s7.8-1.6 12-4.8" stroke="#FDE68A" stroke-width="4" stroke-linecap="round"/>
+</svg>
