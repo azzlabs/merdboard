@@ -7,7 +7,7 @@ Soundboard full-stack in JavaScript con backend Node.js, frontend React + Tailwi
 ## Requisiti
 
 - Node.js 20 o superiore
-- Playback server-side portabile: `afplay` su macOS, `ffplay-static` su Linux e Windows
+- Playback server-side portabile: `afplay` su macOS, `ffplay` di sistema su Linux e Windows
 - Il selettore del device usa il fallback `Default output` su tutte le piattaforme
 
 ## Avvio
